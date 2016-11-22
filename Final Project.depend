@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1450188897 source:h:\profile\desktop\computer science\programs\assign4\final project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1453472669 source:h:\profile\desktop\computer science\final project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+	<fstream>
+	<iomanip>
+	<cctype>
+	<sstream>
+
+1479832568 source:h:\profile\desktop\grade 12 cs\final project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+	<fstream>
+	<iomanip>
+	<cctype>
+	<sstream>
+
