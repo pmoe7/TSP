@@ -6,7 +6,7 @@ first time ever, coding in c++.
 
 
 ##Inpute Data Format:
-Whitehorse - city name (max 10 chars)
-3 - x coordinate (x ∈ I, 0 < i < 70)
-4 - y cordinate (y ∈ I, 0 < i < 33)
+**Whitehorse** - city name (max 10 chars)
+**3*** - x coordinate (x ∈ I, 0 < i < 70)
+**4** - y cordinate (y ∈ I, 0 < i < 33)
 
